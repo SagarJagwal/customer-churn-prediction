@@ -47,7 +47,6 @@ identify customers who may need targeted retention efforts.
 
 ## Tools & Technologies
 
-Add only the technologies used in your implementation:
 
 -   Programming language: `[Python / other]`
 -   Data processing: `[Pandas / NumPy / other]`
@@ -58,8 +57,6 @@ Add only the technologies used in your implementation:
 
 ## Models
 
-Document the models you actually trained. Examples of commonly used
-churn-classification models include:
 
 -   Logistic Regression
 -   Decision Tree
@@ -68,7 +65,6 @@ churn-classification models include:
 
 ## Evaluation Metrics
 
-Choose metrics that reflect the project's objectives and class balance:
 
 -   Accuracy
 -   Precision
@@ -77,17 +73,6 @@ Choose metrics that reflect the project's objectives and class balance:
 -   Confusion Matrix
 -   ROC-AUC
 
-Add your actual evaluation results here after running the model. Do not
-report example or estimated scores as project results.
-
-## Key Questions
-
--   What proportion of customers churned?
--   Which customer attributes are associated with churn?
--   Which features contribute most to the model's predictions?
--   How effectively does the model identify customers who are likely to
-    churn?
--   What retention actions could the business investigate?
 
 ## Repository Structure
 
