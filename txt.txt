@@ -1,0 +1,8 @@
+Workflow
+
+Data collection->EDA(explporatery data analysis)->Data Preprocessing->Train test split->ML Model
+
+
+Unknown data->Best Trained Model->Prediction
+
+1:10:45 timestamp
